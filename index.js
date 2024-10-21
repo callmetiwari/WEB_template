@@ -22,3 +22,11 @@ app.listen(8080,()=>{
 app.get("/",(req,res)=>{
    res.send("ok");
 })
+
+/*
+ npm init -y
+  npm i express 
+  npm i ejs   
+  npm i mongoose
+
+  */
